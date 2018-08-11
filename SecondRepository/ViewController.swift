@@ -20,7 +20,12 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+<<<<<<< HEAD
   
 //note2
+=======
+    //Push
+
+>>>>>>> temp
 }
 
